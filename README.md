@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oscar Eduardo Montalvo Camacho</h1>
-<h3 align="center">Soy colombiano, desarrollador web. Apasionado por la investigación y temas del espacio. Me gusta hacer ideas reales y ayudar a los demás. Vivo en Bogotá, trabajo fuerte en la web y en programas de diseño. Estudio para ser programador creyendo que la tecnología ayuda al mundo a ser más eficientes. Soy líder, sincero, con experiencia en trabajar en equipo, cumpliendo metas a corto plazo y aprendo rápido lo que no sé.</h3>
+<h3 align="center">I am a Colombian web developer. Passionate about research and space issues. I like to make real ideas and help others. I live in Bogotá, I work a lot on the web and in design programs. I study to be a programmer believing that technology helps the world to be more efficient. I am a leader, sincere, with experience in teamwork, meeting short-term goals and quickly learning what I don't know.</h3>
 
 - 😎 I’m currently working on [The best version of me](https://oscaremc.github.io/)
 
